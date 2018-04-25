@@ -1,0 +1,11 @@
+/Users/Nick/Projects/CapStone/CapStone/bin/Debug/netcoreapp2.0/CapStone.deps.json
+/Users/Nick/Projects/CapStone/CapStone/bin/Debug/netcoreapp2.0/CapStone.runtimeconfig.json
+/Users/Nick/Projects/CapStone/CapStone/bin/Debug/netcoreapp2.0/CapStone.runtimeconfig.dev.json
+/Users/Nick/Projects/CapStone/CapStone/bin/Debug/netcoreapp2.0/CapStone.dll
+/Users/Nick/Projects/CapStone/CapStone/bin/Debug/netcoreapp2.0/CapStone.pdb
+/Users/Nick/Projects/CapStone/CapStone/obj/Debug/netcoreapp2.0/CapStone.csprojResolveAssemblyReference.cache
+/Users/Nick/Projects/CapStone/CapStone/obj/Debug/netcoreapp2.0/CapStone.csproj.CoreCompileInputs.cache
+/Users/Nick/Projects/CapStone/CapStone/obj/Debug/netcoreapp2.0/CapStone.AssemblyInfoInputs.cache
+/Users/Nick/Projects/CapStone/CapStone/obj/Debug/netcoreapp2.0/CapStone.AssemblyInfo.cs
+/Users/Nick/Projects/CapStone/CapStone/obj/Debug/netcoreapp2.0/CapStone.dll
+/Users/Nick/Projects/CapStone/CapStone/obj/Debug/netcoreapp2.0/CapStone.pdb
